@@ -198,6 +198,10 @@ header .mobile {
 
   #sign-up-cta .email {
     display: none;
+    color: white;
+    font-size: 1.25rem;
+    font-family: Roboto-regular;
+    line-height: 1.4;
   }
 
   #sign-up-cta h1 {
