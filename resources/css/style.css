@@ -169,6 +169,7 @@ header .mobile {
   font-family: "Rubik", sans-serif;
   font-size: 3.125rem;
   padding-bottom: 0.75rem;
+  line-height: 1.4;
 }
 
 #sign-up-cta .button {
